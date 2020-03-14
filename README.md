@@ -17,7 +17,7 @@
 <</cooldownButton>>
 ```
 ### *Syntax:*
-> `<<cooldownButton Text [Duration] [Diraction]>>`
+> `<<cooldownButton Text [Duration] [Direction]>>`
  * Text: *String* \
     The text that will be displayed on the Button. \
     > The Content's Text of the Button _**has**_ to be the first argument.
