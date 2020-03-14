@@ -1,4 +1,4 @@
-# Gwen[Tastic]'s Sugarcube Macro Collecten
+# Gwen[Tastic]'s Sugarcube Macro Collection
 
 * ## Cooldown Button
 ## *Description:*
