@@ -1,0 +1,15 @@
+.macro-cooldownbutton{
+	position: relative;
+}
+.macro-cooldownbutton.Disabled{
+	background-color: #444;
+}
+.macro-cooldownbutton-progressbar.Disabled{
+	background-color: rgba(4, 4, 4, 0.5);
+}
+.macro-cooldownbutton-progressbar{
+  	position: absolute;
+  	top: 0;
+	left: 0;
+	height: 100%;
+}
