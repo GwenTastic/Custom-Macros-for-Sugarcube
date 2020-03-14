@@ -1,5 +1,6 @@
 # Gwen[Tastic]'s Sugarcube Macro Collecten
 
+* ## Cooldown Button
 ## *Description:*
  For an easy to use Button with a build in Progressbar and cooldown.
 > [Demo File](https://github.com/GwenTastic/Custom-Macros-for-Sugarcube/tree/master/Demos "Demo File")
