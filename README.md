@@ -4,7 +4,7 @@
  For an easy to use Button with a build in Progressbar and cooldown.
 > [Demo File](https://github.com/GwenTastic/Custom-Macros-for-Sugarcube/tree/master/Demos "Demo File")
 
-![Button Preview](https://i.imgur.com/EvAkmbr.gifv "Button Preview")
+![Button Preview](https://i.imgur.com/EvAkmbr.gif "Button Preview")
 
 ## *Installing:*
  To install this addon, simply copy the contents of __either__ the [Pretty](https://github.com/GwenTastic/Custom-Macros-for-Sugarcube/blob/master/Scripts/CooldownButton.js "Pretty") or [Minified](https://github.com/GwenTastic/Custom-Macros-for-Sugarcube/blob/master/Scripts/minified/CooldownButton.minified.js "Minified") CooldownButton JavaScript into your Story's JavaScript page, __and__ the contents of the [Stylesheet](https://github.com/GwenTastic/Custom-Macros-for-Sugarcube/blob/master/Scripts/CooldownButton.css "Stylesheet") into your Story's Stylesheet.
