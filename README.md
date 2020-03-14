@@ -14,7 +14,7 @@
 ```js
 <<cooldownButton "My Button">>
     /* Your Code */
-<<cooldownButton>>
+<</cooldownButton>>
 ```
 ### *Syntax:*
 > `<<cooldownButton Text [Duration] [Diraction]>>`
