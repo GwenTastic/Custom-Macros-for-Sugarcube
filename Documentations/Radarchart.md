@@ -3,7 +3,6 @@
 To install this Macro, simply copy the contents of __either__ the [Pretty](https://github.com/GwenTastic/Custom-Macros-for-Sugarcube/blob/master/Scripts/Radarchart.js "Pretty") or [Minified](https://github.com/GwenTastic/Custom-Macros-for-Sugarcube/blob/master/Scripts/minified/Radarchart.minified.js "Minified") Radarchart JavaScript into your Story's JavaScript page.
 
 <hr>
-<br>
 
 ## *Description:*
 The Radarchart Macro takes in values or a collection to visualise it as a SVG Radarchart which can be further customized via CSS.
@@ -27,7 +26,7 @@ Everything more then two will result in a Poligon of various shapes.
 
 > ## Macro Parameters:
 > - **Collection/Name**: *Sting / Object* \
-   It's always required as the first Argument. Can be either a name for the first group eg.: "Player", or the variable name that holds a collection eg.: `"$Player"` or `"$Player.Propertyname"`, or a object collection itself. <small>See [Supported Strucutres](###supported-collections)</small>. 
+   It's always required as the first Argument. Can be either a name for the first group eg.: "Player", or the variable name that holds a collection eg.: `"$Player"` or `"$Player.Propertyname"`, or a object collection itself. <small>See [Supported Strucutres](#supported-collections)</small>. 
 >  
 > - **Min=Number**: Optional, Default 0;\
     Is used to create a helper circle at the position of the provided number ex.: `Min=50 Max=100` would be a cirlce on the half way mark.
