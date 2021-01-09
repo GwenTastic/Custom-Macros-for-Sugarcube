@@ -4,7 +4,7 @@
 
 <br>
 
-## *Description:*
+## Description:
  For an easy to use Button with a build in Progressbar and cooldown.
 > [Demo File](https://github.com/GwenTastic/Custom-Macros-for-Sugarcube/tree/master/Demos "Demo File")
 

@@ -4,7 +4,7 @@ To install this Macro, simply copy the contents of __either__ the [Pretty](https
 
 <hr>
 
-## *Description:*
+## Description:
 The Radarchart Macro takes in values or a collection to visualise it as a SVG Radarchart which can be further customized via CSS.
 
 ~~~js
